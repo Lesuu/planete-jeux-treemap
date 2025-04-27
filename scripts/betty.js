@@ -1,5 +1,5 @@
 import { currentTreemapExplanation } from "./global.js"
-import { getTranslation, currentScenario, langue } from "./main.js"
+import { getTranslation, currentScenario, langue } from "../main.js"
 import { isGeneratingTreemap } from "./treemap.js"
 
 let bettyEngaged = false

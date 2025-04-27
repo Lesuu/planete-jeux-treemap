@@ -1,4 +1,4 @@
-import { getTranslation, langue } from "./main.js";
+import { getTranslation, langue } from "../main.js";
 
 let betty, bulle, txt, screenshot, bulleScaleX, bulleScaleY;
 let isTalking = false;

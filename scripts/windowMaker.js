@@ -1,5 +1,3 @@
-import { getTranslation, langue } from "./main.js"
-
 //#region Main Window   
 // Création de la fenêtre windows
 export function createWindow(){

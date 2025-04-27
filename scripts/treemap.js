@@ -1,4 +1,4 @@
-import { getTranslation, langue, loading } from "./main.js"
+import { getTranslation, langue, loading } from "../main.js"
 import { setCurrentTreemapExplanation } from "./global.js"; 
 
 // Tout ce qui s'appelle "scenario" devrait s'appeler "indicateur", mais changer cause des problèmes.

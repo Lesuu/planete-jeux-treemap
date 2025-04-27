@@ -1,10 +1,10 @@
 //#region Initialisation
-import { generateTreemap, etage1_jds, etage1_jv, listEtages } from "./treemap.js";
-import { loadAssets, importText } from "./initialize.js";
-import { createWindow, windowsTreemapContainer } from "./windowMaker.js";
-import { callBetty, initializeBetty, iButtons, isBettyTalking } from "./betty.js";
-import { slideshow } from "./slideshow.js";
-import { tutorial } from "./tutorial.js";
+import { generateTreemap, etage1_jds, etage1_jv, listEtages } from "./scripts/treemap.js";
+import { loadAssets, importText } from "./scripts/initialize.js";
+import { createWindow, windowsTreemapContainer } from "./scripts/windowMaker.js";
+import { callBetty, initializeBetty, iButtons, isBettyTalking } from "./scripts/betty.js";
+import { slideshow } from "./scripts/slideshow.js";
+import { tutorial } from "./scripts/tutorial.js";
 
 let plateforme_choisie, indicateur_choisi, contribution_choisie, etage1_choisi;
 let current_button_pressed = null;

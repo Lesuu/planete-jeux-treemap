@@ -1,4 +1,4 @@
-import { getTranslation } from "./main.js";
+import { getTranslation } from "../main.js";
 let txt, betty, bulle, retour;
 let curDialog = 0;
 let isTalking = false;
