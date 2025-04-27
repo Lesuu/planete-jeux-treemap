@@ -7,9 +7,15 @@ Le programme permet à l'utilisateur d'explorer l'impact de différentes pratiqu
 ## Crédits
 
 Recherche & compilation des données : Lina Picasso
+
 Textes : Lina Picasso
+
 Développement : Carlo Rossel
+
 Design visuel & audio : Carlo Rossel
+
 Aide au développement : Isaac Pante
+
 Supervision : Yannick Rochat, Isaac Pante, Selim Krichane
+
 Comité scientifique : Johann Recordon, Michka Mélo, Gabriel Magnaval, Manuele Margni
