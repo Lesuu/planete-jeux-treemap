@@ -1,6 +1,6 @@
 # Treemap - Planète Jeux
 
-Un programme éducationnel développé en Kaplay.js pour l'exposition Planète Jeux du Musée Suisse du jeu, à travers un projet en collaboration avec l'Université de Lausanne.
+Un programme éducationnel développé en Kaplay.js pour l'exposition Planète Jeux du [Musée Suisse du Jeu](https://museedujeu.ch/), à travers un projet en collaboration avec l'Université de Lausanne.
 
 Le programme permet à l'utilisateur d'explorer l'impact de différentes pratiques de jeux, que ce soit du jeu de société ou du jeu vidéo, à travers une visualisation de donnée interactive sous la forme d'un Treemap.
 
